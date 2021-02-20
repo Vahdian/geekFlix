@@ -1,0 +1,239 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "image": "https://i.pinimg.com/originals/fb/8e/8a/fb8e8a96fca2f049334f312086a6e2f6.png"
+    },
+    {
+      "id":2,
+      "name":"Anna",
+      "image":"https://i.pinimg.com/originals/c0/8e/6c/c08e6c9595e03202a46a95f66578799f.png"
+    },
+    {
+      "id":3,
+      "name":"Fred",
+      "image":"https://i.pinimg.com/originals/0d/6a/b2/0d6ab257cdc929ca129ba5557b125a68.png"
+    },
+    {
+      "id":4,
+      "name":"Patricia",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTJetDBH8ZI4zzlxme4aqq19cDi_RFLuE4w&usqp=CAU"
+    }
+    
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Jurassic Park",
+      "image": "https://i.ebayimg.com/images/g/wL8AAOSwQN1bGlO1/s-l640.jpg",
+      "genres":["adventures", "dinousaurs", "action"],
+      "plot":"A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+    },
+    {
+      "id": 2,
+      "title": "Lord of the Rings",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-jt7ZQI%2BL._AC_.jpg",
+      "genres":["adventures", "epic", "action", "fantasy"],
+      "plot":"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+      "id": 3,
+      "title": "Matrix",
+      "image": "https://elsalvadorgram.com/wp-content/uploads/2017/03/The-Matrix-Movie-POster.jpg",
+      "genres":["science fiction", "dystopia", "action"],
+      "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence"
+    },
+    {
+      "id": 4,
+      "title": "Star Wars",
+      "image": "https://readyplayertwoexperience.files.wordpress.com/2018/05/star-wars-episode-4-advance-poster1.jpg",
+      "genres":["adventures", "science fiction", "action", "fantasy"],
+      "plot":"Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    },
+    {
+      "id": 5,
+      "title": "Terminator",
+      "image": "https://1.bp.blogspot.com/-JHRT6xJwC40/VT4xOI5fHdI/AAAAAAAAFak/EvQRfoqRzCk/s1600/terminator-genisys-2015-wallpaper-poster-arnold-t-800-t-1000.jpg",
+      "genres":["science fiction", "dystopia", "action"],
+      "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+      "id": 6,
+      "title": "The fifth element",
+      "image": "https://www.tassieopenaircinemas.com.au/wp-content/uploads/2020/07/The-Fifth-Element-Eventbrite.jpg",
+      "genres":["science fiction", "dystopia", "action"],
+      "plot":"In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay."
+    },
+    {
+      "id": 7,
+      "title": "Iron-Man 2",
+      "image": "https://4.bp.blogspot.com/_uznC7sISl3A/S9iU6SeYhmI/AAAAAAAAATg/8F4Dm0WDRYg/s1600/iron_man_2_poster.jpg",
+      "genres":["science fiction", "superheros", "action"],
+      "plot":"After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+    },
+    {
+      "id": 8,
+      "title": "Princess Mononoke",
+      "image": "https://i.pinimg.com/originals/4c/5f/86/4c5f8640a3c1bee041b184b5450e6a69.jpg",
+      "genres":["anime", "fantasy", "adventures"],
+      "plot":"On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime."
+    },
+    {
+      "id": 9,
+      "title": "Blade Runner",
+      "image": "https://occ-0-448-999.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABbtUHr9LnRy2mOL_ajgUnpr-bxVXJcRFBrgkRhD5TwSbqtdlBLfhZVAEHW1gXGSBdlW8375l14zhgX4VEcTU1dqwqKhA.jpg?r=84c",
+      "genres":["science fiction", "dystopian", "police"],
+      "plot":"A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator."
+    },
+    {
+      "id": 10,
+      "title": "Akira",
+      "image": "https://wallpaperaccess.com/full/257093.jpg",
+      "genres":["science fiction", "dystopian", "police"],
+      "plot":"A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics."
+    },
+    {
+      "id": 11,
+      "title": "Battle Royale",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xG1A6tasL._AC_.jpg",
+      "genres":["violence", "action", "horror"],
+      "plot":"A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose."
+    },
+    {
+      "id": 12,
+      "title": "Alien",
+      "image": "https://s3.birthmoviesdeath.com/images/made/Alien-PCC-Poster_1200_800_s.png",
+      "genres":["science fiction", "monsters", "horror"],
+      "plot":"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+      "id": 13,
+      "title": "Stardust",
+      "image": "https://4.bp.blogspot.com/-pNDQMqB1Lio/Tgc602b0qRI/AAAAAAAAAKI/H20Gd3PlKnA/s1600/Stardust.jpg",
+      "genres":["fantasy", "adventures", "epic"],
+      "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence"
+    },
+    {
+      "id": 14,
+      "title": "Star Trek: Beyond",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTwF5bUwCUOYbw5_-7GdMQVeZoSrJ-WaVxw&usqp=CAU",
+      "genres":["adventures", "science fiction", "action", "fantasy"],
+      "plot":"Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    },
+    {
+      "id": 15,
+      "title": "Naruto the Movie",
+      "image": "https://i.ebayimg.com/images/g/OCsAAOSwo4pYMj-B/s-l400.jpg",
+      "genres":["anime", "action", "adventure"],
+      "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+      "id": 16,
+      "title": "Avengers: Endgame",
+      "image": "https://www.alfabetajuega.com/wp-content/uploads/2019/03/vengadores-endgame-poster-e1551846537576.jpg",
+      "genres":["superheros", "action", "adventure"],
+      "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+      "id": 17,
+      "title": "Princess Bride",
+      "image": "https://s26551.pcdn.co/wp-content/uploads/2017/07/princess-bride.jpg",
+      "genres":["romance", "adventure"],
+      "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+      "id": 18,
+      "title": "Riddick",
+      "image": "https://lh5.googleusercontent.com/-rBciiTxE40M/VLQLxSxzFsI/AAAAAAAAGys/Gt1LlqqM26w/s1152/riddick_movie_2013_poster-1280x720.jpg",
+      "genres":["action", "adventure", "science fiction"],
+      "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    }
+  ],
+  "series": [
+    {
+    "id": 1,
+      "title": "Community",
+      "image": "https://cdn.fansided.com/wp-content/blogs.dir/229/files/2014/01/Community-Poster.jpg",
+      "genres":["comedy", "sit come", "series"],
+      "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+      "id": 2,
+        "title": "Dragon Ball",
+        "image": "https://www.99images.com/photos/wallpapers/anime/dragon-ball-gt-wallpaper-hdandroid-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-z6wkl.jpg?v=1581730563",
+        "genres":["adventure", "anime", "series", "science fiction"],
+        "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+        "id": 3,
+        "title": "Game of Thrones",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTocDETbD4l8JttEvhYjw4mAqMimCfWc21ckA&usqp=CAU",
+        "genres":["fantasy", "adventure", "violence"],
+        "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+    },
+    {
+       "id": 4,
+        "title": "Bleach",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81dC73CrSUL._AC_SL1500_.jpg",
+        "genres":["adventure", "anime", "series", "fantasy", "comedy"],
+        "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+      },
+      {
+        "id": 5,
+         "title": "Rick & Morty",
+         "image": "https://cdn11.bigcommerce.com/s-b72t4x/images/stencil/1280x1280/products/74418/81221/Rick_and_Morty_Poster__27566.1488842373.jpg?c=2",
+         "genres":["adventure", "adult animation", "series", "science fiction", "comedy"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 6,
+         "title": "Dexter",
+         "image": "https://images2.alphacoders.com/284/thumb-1920-284862.jpg",
+         "genres":["crime", "police", "series", "thriller"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 7,
+         "title": "Sherlock",
+         "image": "https://wallup.net/wp-content/uploads/2019/09/07/505767-sherlock-crime-drama-mystery-series-bbc-748x421.jpg",
+         "genres":["crime", "police", "series", "comedy", "british"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 8,
+         "title": "Supernatural",
+         "image": "https://i.pinimg.com/originals/87/a7/28/87a7285c2c99711715ff7a8454be5309.jpg",
+         "genres":["crime", "police", "series", "fantasy", "horror"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 9,
+         "title": "Doctor Who",
+         "image": "https://img.lemde.fr/2018/10/04/6/0/728/362/1440/720/60/0/ae1fdf5_qwdgXl0s4aDqEYtjjlyhNj7W.jpg",
+         "genres":["science fiction", "series", "fantasy", "adventures"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 10,
+         "title": "Brooklyn 99",
+         "image": "https://1.bp.blogspot.com/-X3n6HaUQamE/WSrS4zn28zI/AAAAAAAAF6A/1fbghUy9SGgY3yTW_UssedAftmOP5jTHACLcB/s1600/brooklyn-nine-nine-poster.jpg",
+         "genres":["comedy", "series", "sit com"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 11,
+         "title": "Black Mirror",
+         "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/black-mirror-1559987780.png?crop=1.00xw:0.893xh;0,0.0783xh&resize=480:*",
+         "genres":["science fiction", "dystopian", "action", "british"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       },
+       {
+        "id": 12,
+         "title": "The Mandalorian",
+         "image": "https://as.com/meristation/imagenes/2020/09/08/noticias/1599577414_349086_1599577641_noticia_normal.jpg",
+         "genres":["science fiction", "dystopian", "action", "adventure"],
+         "plot":"An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race."
+       }
+  ]
+}
